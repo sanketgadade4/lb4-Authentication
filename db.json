@@ -1,0 +1,22 @@
+{
+  "ids": {
+    "User": 4,
+    "UserIdentity": 104873802878033990000,
+    "UserCredentials": 3
+  },
+  "models": {
+    "User": {
+      "1": "{\"name\":\"test loopback\",\"username\":\"pocloopback@gmail.com\",\"email\":\"pocloopback@gmail.com\",\"id\":1}",
+      "2": "{\"name\":\"sank\",\"username\":\"sanketgadade4@gmail.com\",\"email\":\"sanketgadade4@gmail.com\",\"id\":2}",
+      "3": "{\"name\":\"poc loopback\",\"username\":\"pocloopback@gmail.com\",\"email\":\"pocloopback@gmail.com\",\"id\":3}"
+    },
+    "UserIdentity": {
+      "104873802878033983380": "{\"id\":\"104873802878033983380\",\"provider\":\"google\",\"profile\":{\"emails\":[{\"value\":\"pocloopback@gmail.com\",\"type\":\"account\"}]},\"authScheme\":\"google\",\"created\":\"2020-08-04T09:06:56.833Z\",\"userId\":1}",
+      "103941034564436468823": "{\"id\":\"103941034564436468823\",\"provider\":\"google\",\"profile\":{\"emails\":[{\"value\":\"sanketgadade4@gmail.com\",\"type\":\"account\"}]},\"authScheme\":\"google\",\"created\":\"2020-08-04T09:14:18.055Z\",\"userId\":2}"
+    },
+    "UserCredentials": {
+      "sanketgadade4@gmail.com": "{\"id\":\"sanketgadade4@gmail.com\",\"password\":\"bfl@12345\",\"userId\":2}",
+      "pocloopback@gmail.com": "{\"id\":\"pocloopback@gmail.com\",\"password\":\"bfl@123345\",\"userId\":3}"
+    }
+  }
+}
